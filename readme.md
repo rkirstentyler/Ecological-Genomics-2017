@@ -23,4 +23,4 @@ Syntax
 
 Implementation:
 
-[hyperlinked words] (hittps://adnguyen.github.io/)
+This is a cool website [hyperlinked words] (hittps://adnguyen.github.io/)
