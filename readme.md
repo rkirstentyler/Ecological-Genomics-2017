@@ -33,3 +33,7 @@ Syntax:
 ![nothing in brackets](URL for picture in parentheses)
 
 ```
+
+Implementation: 
+
+![](https://cloud.githubusercontent.com/assets/22100529/22071617/b5cb39e4-dd6d-11e6-8db9-1236794ac972.jpg)
