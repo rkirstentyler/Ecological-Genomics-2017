@@ -7,10 +7,19 @@ Create a list:
 * second   
 * third   
 
-Syntax for creating a list
+Syntax for creating a code box:
 
 ```
 * Item 1   
 * Item 2   
 * Item 3   
 ```
+
+Example of embedding a URL:
+Syntax
+```
+
+[hyperlinked words] (hittps://adnguyen.github.io/)
+```
+
+Implementation:
