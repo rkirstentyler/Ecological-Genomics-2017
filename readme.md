@@ -24,3 +24,12 @@ Syntax
 Implementation:
 
 This is a cool website [hyperlinked words] (https://adnguyen.github.io/)
+
+Example of embedding an image: 
+
+Syntax: 
+
+```
+![nothing in brackets](URL for picture in parentheses)
+
+```
