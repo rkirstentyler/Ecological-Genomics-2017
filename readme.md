@@ -18,8 +18,9 @@ Syntax for creating a code box:
 Example of embedding a URL:
 Syntax
 ```
-
 [hyperlinked words] (hittps://adnguyen.github.io/)
 ```
 
 Implementation:
+
+[hyperlinked words] (hittps://adnguyen.github.io/)
